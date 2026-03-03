@@ -1,0 +1,21 @@
+.body{
+    display:flex;
+    background-color: cornflowerblue;
+}
+.input{
+    text-align: center;
+    margin-left: 100px;
+}
+.login-pic{
+    width:60px;
+    height:60px;
+}
+.button{
+    color:black;
+    height:80px;
+}
+.image2{
+    height:300px;
+    width:600px;
+    margin-right:120px;
+}
